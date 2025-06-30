@@ -1,0 +1,8 @@
+{
+  "name": "label-it-platform",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
